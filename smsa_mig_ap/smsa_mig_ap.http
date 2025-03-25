@@ -1,0 +1,6 @@
+@smsa_mig_ap_HostAddress = http://localhost:5032
+
+GET {{smsa_mig_ap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
